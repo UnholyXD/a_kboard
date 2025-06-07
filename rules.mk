@@ -1,5 +1,5 @@
 # Enable VIAL support
-#VIAL_ENABLE = yes
+VIAL_ENABLE = yes
 
 # If you want to enable debug options in VIAL (optional)
 # VIAL_ENABLE_RAW = yes
