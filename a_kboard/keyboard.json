@@ -48,6 +48,5 @@
                 {"matrix": [2, 4], "x": 4, "y": 2}
             ]
         }
-    },
-    "bootmagic_lite": true // Adicionado aqui para habilitar BOOTMAGIC_LITE_ENABLE via JSON
+    }
 }
